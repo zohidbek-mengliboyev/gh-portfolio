@@ -1,5 +1,12 @@
 # Building an SSR Application for a GitHub Portfolio Using Angular
 
+![image](https://user-images.githubusercontent.com/61344271/224243601-b820b796-e33d-46f3-a501-dc42dfe8d707.png)
+
+![image](https://user-images.githubusercontent.com/61344271/224243680-c224394f-8474-458d-8d28-9b80071d9bcc.png)
+
+![image](https://user-images.githubusercontent.com/61344271/224243724-e478c2c6-7b98-4879-a3e9-948a939c8c08.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
 ## Development server
